@@ -11,3 +11,7 @@
 -return web.Response(body=b'<h1>Awesome</h1>')
 +return web.Response(body=b'<h1>Awesome</h1>',content_type='text/html')
 ```
+
+### day2
+
+> 第二天跟着网页就跑不起来了,教程源码不一致,好挫败...估计要放弃了!
